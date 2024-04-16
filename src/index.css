@@ -211,6 +211,11 @@ nav {
   padding: 0.5rem 1rem;
 }
 .footer-wrapper {
+  max-width: 1240px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 20px;
+  padding-right: 20px;
   margin: 6rem 0rem;
   display: flex;
   margin-top: 10rem;
